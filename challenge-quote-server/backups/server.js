@@ -5,6 +5,7 @@
 const express = require("express");
 const app = express();
 
+
 //load the quotes JSON
 const Quotes = require("./quotes.json");
 
@@ -17,6 +18,10 @@ app.get("/", function(request, response) {
 });
 
 //START OF YOUR CODE...
+app.get('/quotes', function(request, response){
+console.log('quotes are interesting');
+response.send(Quotes);
+});
 
 //...END OF YOUR CODE
 
