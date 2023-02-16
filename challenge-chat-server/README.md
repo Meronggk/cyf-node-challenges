@@ -56,7 +56,7 @@ If you think you know how to do that, go ahead!
 
 Try to use what you know to do this challenge on your own. It does not require any new knowledge.
 
-You may find useful the [express cheatsheet](https://github.com/nbogie/express-notes/blob/master/express-cheatsheet.md)
+You may find useful the [express cheatsheet](https://github.com/nbogie/express-notes/blob/master/exprcess-cheatsheet.md)
 
 ## End of Level 1 challenge!
 

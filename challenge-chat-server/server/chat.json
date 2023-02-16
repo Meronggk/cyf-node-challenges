@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "message": "I hope you're doing well."
+    },
+    {
+        "id": 2,
+        "message": "How are you doing?"
+    },
+    {
+        "id": 3,
+        "message": "We are going out for a lunch."
+    },
+    {
+        "id": 4,
+        "message": "We are back."
+    }
+]

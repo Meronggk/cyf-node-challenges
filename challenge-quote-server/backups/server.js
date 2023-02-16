@@ -17,10 +17,7 @@ app.get("/", function(request, response) {
 });
 
 //START OF YOUR CODE...
-app.get('/quotes', function(request, response){
-  console.log('this is quotes');
-  response.send(Quotes);
-});
+
 //...END OF YOUR CODE
 
 //You can use this function to pick one element at random from a given array
