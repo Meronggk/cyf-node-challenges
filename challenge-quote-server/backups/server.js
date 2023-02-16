@@ -18,8 +18,8 @@ app.get("/", function(request, response) {
 
 //START OF YOUR CODE...
 app.get('/quotes', function(request, response){
-  console.log('this is quotes')
-  response.send('Quotes');
+  console.log('this is quotes');
+  response.send(Quotes);
 });
 //...END OF YOUR CODE
 
